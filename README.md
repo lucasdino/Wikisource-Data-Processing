@@ -9,3 +9,8 @@ The `process_wikisource.ipynb` is a processing script that walks through the var
 Download the zipped file from the above Wikimedia link. I used `enwikisource-20240320-pages-articles.xml.bz2`. Extract the XML file, and then in the `process_wikisource.ipynb` file, make sure to set the `path` variable to the extracted XML's filepath. 
 
 Then, you can quickly run through the various steps to visualize and tune your processing function before doing a mass processing job.
+
+---
+Datasets linked are under the Creative Commons Attribution-Share-Alike 3.0 License ([source and detail](https://dumps.wikimedia.org/legal.html)).
+
+*File also on [Kaggle](https://www.kaggle.com/code/lucasdionisopoulos/wikisourcedataprocessing).*
